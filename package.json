@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davitigs/advancedCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davitigs/advancedCSS/issues"
+  },
+  "homepage": "https://github.com/Davitigs/advancedCSS#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
