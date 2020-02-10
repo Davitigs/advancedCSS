@@ -1,0 +1,3 @@
+@function calculateGrid($side) {
+  @return (100% - $side)/2;
+}
