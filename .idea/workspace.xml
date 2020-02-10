@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3199a5e-5b40-43a2-a0b3-bc90ebe1e24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/components/_composition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/layout/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_feature-box.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_button.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +77,7 @@
       <updated>1580561279535</updated>
       <workItem from="1580561280747" duration="5120000" />
       <workItem from="1580811270538" duration="1784000" />
-      <workItem from="1580889274565" duration="17306000" />
+      <workItem from="1580889274565" duration="25691000" />
     </task>
     <servers />
   </component>
@@ -92,9 +85,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="298" y="122" width="683" height="486" key="find.popup" timestamp="1581079366513">
+    <state x="298" y="122" width="683" height="486" key="find.popup" timestamp="1581338730040">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
-    <state x="298" y="122" width="683" height="486" key="find.popup/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1581079366513" />
+    <state x="298" y="122" width="683" height="486" key="find.popup/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1581338730040" />
   </component>
 </project>
