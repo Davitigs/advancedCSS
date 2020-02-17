@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3199a5e-5b40-43a2-a0b3-bc90ebe1e24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/components/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/components/_feature-box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_bg-video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_story.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_card.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
     </list>
@@ -77,7 +75,7 @@
       <updated>1580561279535</updated>
       <workItem from="1580561280747" duration="5120000" />
       <workItem from="1580811270538" duration="1784000" />
-      <workItem from="1580889274565" duration="25691000" />
+      <workItem from="1580889274565" duration="30197000" />
     </task>
     <servers />
   </component>
