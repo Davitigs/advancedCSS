@@ -14,6 +14,8 @@
     width: 15rem;
     height: 15rem;
     float: left;
+    //using this to change the shape of the outside
+    // - in this case we want text to be circularly positioned around the figure
     -webkit-shape-outside: circle(50% at 50% 50%);
     shape-outside: circle(50% at 50% 50%);
     clip-path: circle(50% at 50% 50%);
@@ -53,6 +55,8 @@
 
   &:hover &__img {
     transform: translateX(-4rem) scale(1);
+    // filter works similar to transform and has many interesting cases - this one makes the figure blur on hover and sets
+    //the brightness of the figure to 80% to make it a bit darker on hover
     filter: blur(3px) brightness(80%);
   }
 }
